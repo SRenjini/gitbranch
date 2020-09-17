@@ -1,6 +1,6 @@
 //New Class
-public with sharing class New {
-    public New() {
+public with sharing class NewClass {
+    public NewClass() {
 
     }
 }
